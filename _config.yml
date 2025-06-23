@@ -22,8 +22,8 @@ title: Super Blog de recetas Eunice Jardinez
 email: eunicejardinezm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Un blog acogedor con recetas calientes y reconfortantes para climas fríos.
-baseurl: "miniblog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/miniblog" # the subpath of your site, e.g. /blog
+url: "https://eunicejardinez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EuniceJardinez
 github_username:  EuniceJardinez
 
