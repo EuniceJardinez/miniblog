@@ -218,7 +218,7 @@ table td {
  */
 .site-header {
   border-top: 5px solid rgb(66.25, 66.25, 66.25);
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 2px solid #e8e8e8;
   min-height: 55.95px;
   position: relative;
 }
@@ -232,7 +232,7 @@ table td {
   float: left;
 }
 .site-title, .site-title:visited {
-  color: rgb(66.25, 66.25, 66.25);
+  color: rgb(0, 0, 0);
 }
 
 .site-nav {
@@ -304,7 +304,7 @@ table td {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 2px solid #e8e8e8;
   padding: 30px 0;
 }
 
