@@ -217,14 +217,14 @@ table td {
  * Site header
  */
 .site-header {
-  border-top: 5px solid rgb(66.25, 66.25, 66.25);
+  border-top: 7px solid rgb(5, 3, 3);
   border-bottom: 2px solid #e8e8e8;
   min-height: 55.95px;
   position: relative;
 }
 
 .site-title {
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 300;
   line-height: 54px;
   letter-spacing: -1px;
